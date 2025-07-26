@@ -105,7 +105,7 @@ Every line represents hard work, learning, and determination to become job-ready
 ## 📌 Live Demo
 
 Deployed on **Render**:  
-🔗 [Try it Live](https://crud-flask-app-v01o.onrender.com/)  
+🔗 [Try it Live](https://fully-working-store-management-with.onrender.com/)  
 (Note: Load times may vary based on server wake-up time.)
 
 ---
@@ -115,5 +115,5 @@ Deployed on **Render**:
 If you'd like to collaborate, hire, or give feedback:
 
 **Developer:** Muhammad Ali Raffay  
-📧 Email: [Your Email Here]  
+📧 Email: [aliraffayofficial@gmail.com](mailto:aliraffayofficial@gmail.com)  
 📍 Open to Werkstudent roles in Germany (IT | Python | Web Dev)
