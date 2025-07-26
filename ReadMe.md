@@ -45,18 +45,16 @@ This is a **fully functional Flask-based Store Management System** that allows u
 
 ## 📂 Folder Structure
 
-├── app.py # Main Flask application
-├── admin.txt # Admin passwords (for login)
-├── users.txt # User login credentials
-├── items.txt # Stored product data
-├── labels.txt # Field labels for product display
-├── categories.txt # Product categories
-├── html.txt # HTML receipt body (used before rendering)
-├── Invoice.pdf # Final generated invoice
-
-yaml
-Copy
-Edit
+```text
+📦 Project Root
+├── app.py              # Main Flask application
+├── admin.txt           # Admin passwords (for login)
+├── users.txt           # User login credentials
+├── items.txt           # Stored product data
+├── labels.txt          # Field labels for product display
+├── categories.txt      # Product categories
+├── html.txt            # HTML receipt body (used before rendering)
+├── Invoice.pdf         # Final generated invoice
 
 ---
 
