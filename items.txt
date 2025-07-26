@@ -1,0 +1,14 @@
+1028,Chappal,Footwear,27,400,Blue,400,Plastic,Nike,4.8,In Stock
+1028,Chappalka,Footwear,27,400,Blue,400,Plastic,Nike,4.8,In Stock
+1001,Smartphone X1,Electronics,6.1 inch,699.99,Black,180g,Aluminum,TechPro,4.5,In Stock,b
+1002,Laptop Z5,Electronics,15.6 inch,1199.99,Silver,2.3kg,Metal,CompCore,4.7,In Stock,a
+1003,Running Shoes Alpha,Footwear,42 EU,89.99,Blue,800g,Mesh,NovaStep,4.3,Out of Stock,a
+1004,Coffee Maker 3000,Home Appliance,1.5L,149.99,White,1.2kg,Plastic,BrewMaster,4.6,In Stock,c
+1005,Office Chair Ergo,Office Supply,Standard,249.99,Black,15kg,Fabric,ComfortPlus,4.2,In Stock,d
+1006,Water Bottle Pro,Sports,750ml,19.99,Red,300g,Stainless Steel,HydraMate,4.8,In Stock,v
+1007,Smartwatch Lite,Electronics,1.4 inch,129.99,Gray,50g,Silicone,TimeTrack,4.4,Out of Stock,s
+1008,LED Monitor 24",Electronics,24 inch,199.99,Black,3.5kg,Plastic,ViewEdge,4.6,In Stock,r
+1009,Gaming Mouse Ultra,Electronics,Standard,59.99,RGB,120g,Plastic,ClickStorm,4.7,In Stock,g
+1010,Backpack Trail X,Outdoor Gear,30L,79.99,Green,1.1kg,Nylon,AdventurePro,4.5,In Stock,j
+1028,Chappal,Footwear,27,400,Blue,400,Plastic,Nike,4.8,In Stock,d
+10000,2,3,875,764876,7,08678564,8698,709,7,468,Technology

@@ -1,0 +1,1 @@
+Product ID, Product Name, Product Type, Product Size, Product Price, Product Color, Product Weight, Product Material, Product Brand, Product Rating, Product Availability
