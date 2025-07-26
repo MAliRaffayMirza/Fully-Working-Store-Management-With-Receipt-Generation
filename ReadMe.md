@@ -55,7 +55,7 @@ This is a **fully functional Flask-based Store Management System** that allows u
 ├── categories.txt      # Product categories
 ├── html.txt            # HTML receipt body (used before rendering)
 ├── Invoice.pdf         # Final generated invoice
-
+```
 ---
 
 ## ✅ How to Run Locally
