@@ -527,7 +527,7 @@ def adminupdate():
 @app.route("/adminupdatepro", methods=["POST"])
 def adminupdatepro():
     password = session.get("password")
-    htttml = """<form method="POST" action="/adminupdatepro_s">
+    htttml = """<center><form method="POST" action="/adminupdatepro_s">
 <table style="width:80%; background-color: whitesmoke;">"""
 
     update_item = request.form.get("updateitem")
@@ -565,7 +565,7 @@ def adminupdatepro():
         </td>
     </tr>
 </table>
-</form>"""
+</form></center>"""
 
     return htttml+"""<br><br><center><form method="GET" action='/admin'><input type="submit" value="Back to Admin Dashboard" style="width:60%; height:45px; border-radius:15px; background-color:#4b0082; color:white; font-size:17px; font-weight:bold; font-family:arial; border:3px dashed #9370db;"></form></center><br><br>"""
 
