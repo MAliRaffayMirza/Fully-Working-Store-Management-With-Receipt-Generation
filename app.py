@@ -561,7 +561,7 @@ def adminupdatepro():
 <table style="width:80%;">
     <tr>
         <td>
-            <input type="submit" value="Update All Items" style="height: 50px; width:100%; font-size: 20px; font-family: calibri; background-color: white; border: 4px dotted red; border-radius: 20px;">
+            <input type="submit" value="Update All Fields" style="height: 50px; width:100%; font-size: 20px; font-family: calibri; background-color: white; border: 4px dotted red; border-radius: 20px;">
         </td>
     </tr>
 </table>
